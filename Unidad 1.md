@@ -1,0 +1,2 @@
+actividad 1.1 
+ Lo que espero de esta materia, es que nos enseñe y nos dé herramientas para saber qué se puede y qué no se puede hacer de acuerdo con las leyes al trabajar con datos y desarrollar nuestros proyectos, así como aprender a protegerlos. También espero conocer las responsabilidades legales y éticas que tenemos como desarrolladores, comprender la importancia de la privacidad y la seguridad de los datos, y aprender a crear sistemas de inteligencia artificial que sean responsables, transparentes y respeten los derechos de las personas.
